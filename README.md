@@ -13,7 +13,7 @@
 ### 🔧 Instalação
 
  	* Copie a URL do repositório (você pode escolher entre HTTPS ou SSH) 
-  	URL:https://github.com/pablomattos/desafio-front-end.git 
+  	URL:https://github.com/pablomattos/codifica-edu-lista-de-exercicios-01.git
 	* Abra o Terminal ou Git Bash no seu computador.
 	* Altere o diretório de trabalho atual para o local onde deseja ter o diretório clonado.
         * Digite o comando git clone seguido da URL que você copiou. 
