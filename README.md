@@ -1,4 +1,4 @@
-# Lista de exercícios 01 em Javacript do curso da escola Codifica Edu
+# Lista de exercícios 01 em Javascript do curso da escola Codifica Edu
 
 ## 🚀 Lista de exercicios 01
 	
